@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29563891/README.md)
 # Captain Coquet — Cruise Duck Adventures
 
 A free-to-run website for the Edminson family's Northumbrian cruise duck fleet. Each duck gets a unique QR code and passport page. When someone finds a duck, they can upload a photo, add a place and leave a note. The shared fleet map shows the journey as it grows.
